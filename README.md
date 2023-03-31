@@ -4,16 +4,17 @@ As a full stack developer transitioning from the retail-banking industry, I have
 
 ## Skills
 
-html css javascript reactjs nodejs jquery postgresql cypress bootstrap express jest mocha nextjs rails ruby sass 
+html css javascript reactjs nodejs jquery postgresql cypress bootstrap express jest mocha nextjs rails ruby sass tailwind
 
 
 ## Projects
 
-- [TinyApp](https://github.com/zhuicode99/tinyapp)
-- [Tweeter](https://github.com/zhuicode99/tweeter-project)
+- [SmallApp](https://github.com/zhuicode99/smallapp)
+- [Tweeter](https://github.com/zhuicode99/new-tweeter)
 - [Interview Scheduler](https://github.com/zhuicode99/scheduler)
 - [SocialOne](https://github.com/shuiandy/socialone)
 - [LightEat](https://github.com/zhuicode99/lighteat)
+- [Jungle](https://github.com/zhuicode99/jungle-rails)
 ## Contact
 
 - Email: enlin.chen1024@gmail.com
